@@ -1,9 +1,9 @@
 {
-  "name": "Bob",
+  "name": "hubot-jt",
   "version": "0.0.0",
   "private": true,
   "author": "James.Taylor@Ticketmaster.co.uk",
-  "description": "Bob - My PA",
+  "description": "JT's Hubot PA",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
