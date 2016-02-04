@@ -1,9 +1,9 @@
 {
   "name": "hubot-jt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "author": "James.Taylor@Ticketmaster.co.uk",
-  "description": "JT's Hubot PA",
+  "author": "JT <Normola@gmail.com>",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
